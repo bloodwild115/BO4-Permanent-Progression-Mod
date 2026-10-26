@@ -1,0 +1,14 @@
+# Local development / test outputs
+*.bak
+*.log
+*.tmp
+*_TEST.zip
+*_RC*.zip
+
+# Local tools / compilers
+hksc.exe
+DebugCompiler.exe
+
+# OS files
+Thumbs.db
+.DS_Store
