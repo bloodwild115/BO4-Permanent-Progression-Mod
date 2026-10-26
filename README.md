@@ -12,7 +12,7 @@ BO4 Enhancement compatibility is **not included in v1.0.0**. An optional compati
 
 ## Features
 
-- An upgrade system designed to lat you hundreds of hours! With content built to be game-system defining and endore map variety.
+- An upgrade system designed to get you hundreds of hours! With content built to be game-system defining and endorse map variety.
 - A new Key currency system used for upgrading, earned by lifetime rounds completed on certain maps and match milestones.
 - A prestigious currency on top if this called the Sentinel Key, befit for only the most dedicated players for the most game-enhancing rewards. Earned from high round milestones and Main Quest completion for each map.
 - Upgrade enable/disable every single upgrade! Play your way with no reprecautions.
@@ -24,7 +24,7 @@ BO4 Enhancement compatibility is **not included in v1.0.0**. An optional compati
 # A New Perk System
 
 Perks are now going to be expanded on like never before! Bringing variety to each map while still keeping homeage to classic gameplay roots.
-- Physical perk machines arew now in EVERY MAP! Because of this, im removing the class perk selection and making the 4 core statues/colas traditional set perks that change between maps.
+- Physical perk machines are now in EVERY MAP! Because of this, im removing the class perk selection and making the 4 core statues/colas traditional set perks that change between maps.
 - The new system provides variety but still gives you comfort if you dont like the 4 core perks in the map! You can now buy the 4 core statue perks, as well as 4 *optional* perks around the map in their traditional perk machine fashion. This allows you to earn up to *8* perks in a match. The core perks are optional but have no effect on your 4-perk limit.
 - your perk limit *can be expanded upon* by the Permanent Upgrades menu to have up to *8* optional perks ON TOP of the 4 core perks! You still need to make decisions in a map, but its still going to be a major benefit to doing some of the harder challenges to earn Sentinel Keys. In total, you can have up to 12 perks!
 - *Modifiers* are different in this a bit! Your Odin perk still provides its modifier upon the core 4 being purchased, but you still can gain an *Additional Modifier* with your optional perks. Your 4th optional perk bought will receive its Modifier effect, still letting you choose that perk boost in-game instead of in-menu. Upon getting the upgrade for 8 optional perks, your 4th AND 8th slots will provide the modifier effect. That means up to 3 modifiers at once!
@@ -51,7 +51,7 @@ Ways to earn keys include:
 - You can also convert 10 normal keys into its Sentinel version if you dont want to deal with the grind of main quests or reaching extreme high rounds! Just check the bottom of the *SENTINEL UPGRADES* tab to see them all.
 
 # PERMANENT UNLOCKS
-- Use speicifc keys to earn over 63 different upgrades, each with up to 4 tiers of advancement! Here's a taste of what's to offer with some examples:
+- Use specifc keys to earn over 63 different upgrades, each with up to 4 tiers of advancement! Here's a taste of what's to offer with some examples:
 
 
 - *Instakiller* - Expand your Insta-Kill effects even further!
@@ -79,7 +79,7 @@ Tier 4: 50% off + Your purchase has a 25% chance to pack-a-punch the weapon. [Co
 
 - *Stone Cold Stronghold* - Improves resistance, duration, enemy control, and modifier behavior
 
-Tier 1: Double storngholds periodic armor gain from +5 to +10 [Cost: 1 Odin Key]
+Tier 1: Double strongholds periodic armor gain from +5 to +10 [Cost: 1 Odin Key]
 
 Tier 2: Enemies that enter the circle are slowed by one movement tier (super sprinter > sprinter, sprinter > runner, runner > walker, walker > shambler) [Cost: 2 Odin Keys]
 
@@ -117,7 +117,7 @@ Tier 1: After your first pack-a-punch, your next re-pack costs 5k but brings the
 
 - *Savage Impaler* - Your box luck might be better or worse depending how you feel about this gun! 
 
-Tier 1: The Savage Impaler can now appear in the Mystery Box in Dead of the Night without needing to do its questline. (Quest is still avaible to do). [Cost: 1 Danu Sentinel Key]
+Tier 1: The Savage Impaler can now appear in the Mystery Box in Dead of the Night without needing to do its questline. (Quest is still available to do). [Cost: 1 Danu Sentinel Key]
 
 
 There are just SOME of the upgrades available to you in this mod! Suggestions are always welcome for additional ideas, changes, and buffs/nerfs. Every upgrade so far has been tested rigorously for any flaws/issues/inactivity/errors but of course something might pop up! Feel free to let me know and ill get them fixed as soon as I can.
@@ -164,7 +164,7 @@ Their implementation is reserved for a possible future optional Enhancement comp
 Permanent Progression v1.0.0 includes weapon-specific Performance challenge balancing and scaled Technical challenge requirements. Armory requirement text and progress use lifetime weapon statistics wherever supported.
 
 - No more are you stuck getting 2400 headshots with the Welling! It now just requires kills, so get to packing and enjoy the explosives just a bit more! 
-- Some weapon challenges were tuned/altered/reduced to prevent slowing down tradiitonal gameplay for tediousness of a camo (bowie knife challenges especially)
+- Some weapon challenges were tuned/altered/reduced to prevent slowing down traditonal gameplay for tediousness of a camo (bowie knife challenges especially)
 - box and wall weapons requirements are unique per class/weapon to promote a more fluid grind.
 
 See [Weapon Camo Changes](docs/WEAPON_CAMOS.md).
