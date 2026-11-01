@@ -6,9 +6,9 @@ Permanent Progression adds a new form of currency, progression upgrades, mastery
 
 ## Current Release
 
-**v1.0.0 — Standalone**
+**v1.0.1 — Standalone**
 
-BO4 Enhancement compatibility is **not included in v1.0.0**. An optional compatibility release may be developed in the future.
+BO4 Enhancement compatibility is **not included in v1.0.1**. An optional compatibility release may be developed in the future.
 
 ## Features
 
@@ -51,7 +51,7 @@ Ways to earn keys include:
 - You can also convert 10 normal keys into its Sentinel version if you dont want to deal with the grind of main quests or reaching extreme high rounds! Just check the bottom of the *SENTINEL UPGRADES* tab to see them all.
 
 # PERMANENT UNLOCKS
-- Use specifc keys to earn over 63 different upgrades, each with up to 4 tiers of advancement! Here's a taste of what's to offer with some examples:
+- Use specifc keys to earn over 70 different upgrades, each with up to 4 tiers of advancement! Here's a taste of what's to offer with some examples:
 
 
 - *Instakiller* - Expand your Insta-Kill effects even further!
