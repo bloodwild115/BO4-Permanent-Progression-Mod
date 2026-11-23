@@ -14,11 +14,11 @@ BO4 Enhancement compatibility is **not included in v1.0.1**. An optional compati
 
 - An upgrade system designed to get you hundreds of hours! With content built to be game-system defining and endorse map variety.
 - A new Key currency system used for upgrading, earned by lifetime rounds completed on certain maps and match milestones.
+- Custom map support for all systems in the mod!
 - A prestigious currency on top if this called the Sentinel Key, befit for only the most dedicated players for the most game-enhancing rewards. Earned from high round milestones and Main Quest completion for each map.
 - Upgrade enable/disable every single upgrade! Play your way with no reprecautions.
 - Standalone **PERMANENT UPGRADES** lobby integration.
 - Loadout mastery and upgrades to the Armory.
-- Weapon-specific camo rebalancing to make the grind still feel earned but a lot less tedious for how brutal it was in vanilla. Will be expanded on in the future!
 - Download, Extract, Drag-and-drop Shield Client installation to make the install process as easy as pie.
 
 # A New Perk System
@@ -49,6 +49,7 @@ Ways to earn keys include:
 - Round 100 milestone = +1 *Sentinel* key rewarded.
 - Completion of the map Main Quest = +1 *Sentinel* key rewarded.
 - You can also convert 10 normal keys into its Sentinel version if you dont want to deal with the grind of main quests or reaching extreme high rounds! Just check the bottom of the *SENTINEL UPGRADES* tab to see them all.
+- Custom Maps give random keys instead of specific keys like base-maps will.
 
 # PERMANENT UNLOCKS
 - Use specifc keys to earn over 70 different upgrades, each with up to 4 tiers of advancement! Here's a taste of what's to offer with some examples:
@@ -174,7 +175,7 @@ See [Weapon Camo Changes](docs/WEAPON_CAMOS.md).
 
 This mod WILL be receiving more content and improvements in the future. This will not be a one and done mod and numerous improvements will come along over the course of its life.
 Currently the plans as of 10/25/2026:
-- Camo / weapon xp tracking in the pause menu
+- New fleshed out camo system
 - Upgrades that are TBD will be implemented properly
 - New upgrades introduced
 - Balance changes implemented and health/power improvements to make the game flow smoothly.
